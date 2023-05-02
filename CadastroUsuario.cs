@@ -10,9 +10,9 @@ namespace SistemaLogin
     {
         private static Usuario[] usuarios =
         {
-            new Usuario(){login = "Eduardo", senha = "abc123"},
+            new Usuario(){login = "Tobias", senha = "abc123"},
             new Usuario(){login = "Juca", senha = "123a"},
-            new Usuario(){login = "rodolfo", senha = "rd12"}
+            new Usuario(){login = "Rodolfo", senha = "rd12"}
         };
         private static Usuario _userLog = null;
         public static Usuario Userlog
